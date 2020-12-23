@@ -10,7 +10,7 @@ My favorite project I've made is [Conscious Clicks!](http://www.consciousclicks.
 - 🌱 I'm currently learning React
 - 🤔 I’m looking for a job in London
 - 💌 Reach me at livzorn@gmail.com or on instagram [@livzorn](https://www.instagram.com/livzorn/)
-- ⚡ Fun fact: I was born during a tornado!
+- ⚡ Fun fact: I was born during a tornado that touched down in Olivia, MN!
 
 ### 🌍 My Languages 🌎
 
