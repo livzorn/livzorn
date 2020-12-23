@@ -12,7 +12,7 @@ My favorite project I've made is [Conscious Clicks!](http://www.consciousclicks.
 - 💌 Reach me at livzorn@gmail.com or on instagram @livzorn
 - ⚡ Fun fact: I was born during a tornado!
 
-### 🌍 My Languages 🌍
+### 🌍 My Languages 🌎
 
 #### Computer Languages
 - Ruby on Rails
