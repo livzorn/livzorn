@@ -8,7 +8,7 @@ My favorite project I've made is [Conscious Clicks!](http://www.consciousclicks.
 
 - 📷 Check out my [photography](http://livzorn.com/)
 - 🌱 I'm currently learning React
-- 🤔 I’m looking for a job in London
+- 🕵️‍♀️ I’m looking for a job in London
 - 💌 Reach me at livzorn@gmail.com or on instagram [@livzorn](https://www.instagram.com/livzorn/)
 - ⚡ Fun fact: I was born during a tornado that touched down in Olivia, MN!
 
