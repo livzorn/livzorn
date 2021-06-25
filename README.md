@@ -7,8 +7,7 @@ I'm an artist and developer from Boston, MA. I studied Photography at Bard Colle
 My favorite project I've made is [Conscious Clicks!](http://www.consciousclicks.org/) It is an app that trains you to live more mindfully and unlearn unhealthy ideas by showing you constructive messages throughout the day. Take a look, and sign-up! 🌈
 
 - 📷 Check out my [photography](http://livzorn.com/)
-- 🌱 I'm currently learning React
-- 🕵️‍♀️ I’m looking for a job in London
+- 🤓 I'm working as a Software Developer at Softwire
 - 💌 Reach me at livzorn@gmail.com or on instagram [@livzorn](https://www.instagram.com/livzorn/)
 - ⚡ Fun fact: I was born during a tornado that touched down in Olivia, MN!
 
